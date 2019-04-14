@@ -1,0 +1,7 @@
+Hacker101 Android quickstart: https://www.hacker101.com/sessions/android_quickstart
+Cybrary: https://www.cybrary.it/course/ethical-hacking/
+Apktool: https://ibotpeaches.github.io/Apktool/documentation/
+Dex2jar: https://github.com/pxb1988/dex2jar
+Java Decompiler GUI: http://java-decompiler.github.io/
+Example report: https://hackerone.com/reports/283063
+SACH (Secure Android Code Helper): https://ieeexplore.ieee.org/document/7925374
